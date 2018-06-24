@@ -1,1 +1,1 @@
-This repository will contain python implemenetations of common machine learning algorithams.
+This repository will contain python implementations of common machine learning algorithams.
